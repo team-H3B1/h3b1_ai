@@ -1,0 +1,6 @@
+yolo requirement.txt
+
+django
+numpy 1.23
+
+whisper
